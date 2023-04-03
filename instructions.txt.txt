@@ -1,0 +1,7 @@
+To run the simulation
+open 1 terminal and type:
+python server1.py
+open another terminal and type:
+python client1.py
+
+Can change the parameters like number of clients , buffer size and file to share in constants.py
